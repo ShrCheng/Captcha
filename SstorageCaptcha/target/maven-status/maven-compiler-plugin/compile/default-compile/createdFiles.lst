@@ -1,6 +1,0 @@
-com\sstorage\captcha\util\CaptchaUtil.class
-com\sstorage\captcha\global\NumberEnum.class
-com\sstorage\captcha\generate\Generate.class
-com\sstorage\captcha\entity\CaptchaEntity.class
-com\sstorage\captcha\entity\CaptchaResultEntity.class
-com\sstorage\captcha\global\CalculateEnum.class
