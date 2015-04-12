@@ -4,7 +4,7 @@
   <artifactId>Captcha</artifactId>
   <version>0.0.1-build</version>
   <name>Captcha</name>
-  <description>sstorage captcha generate program</description>
+  <description>captcha generate program</description>
   
   <dependencies>
     <dependency>
